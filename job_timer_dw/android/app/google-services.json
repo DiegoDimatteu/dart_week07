@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936348317573",
+    "project_id": "job-timer-dartweek7",
+    "storage_bucket": "job-timer-dartweek7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936348317573:android:f7b2ae95fdbde6280ab6ec",
+        "android_client_info": {
+          "package_name": "br.com.diegodimatteu.job_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936348317573-m3nsm7bhu5cg1i80glio9t9sb2dinv89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyYCFCybwEBa_CTMjosOf4C-Move4U4fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936348317573-m3nsm7bhu5cg1i80glio9t9sb2dinv89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
