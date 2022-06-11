@@ -1,6 +1,6 @@
 # 7ª Dart Week
 
-Evento Dart Week Sétima edição, ocorreu do dias 06/06/2022 ao 12/06/2022. O objetivo era realizar um desenvolvimento de um app, utilizando diversas estruturas e processos metológicos. Simulando um desenvolvimento real de app no cotidiano de um desenvolvedor.
+Evento Dart Week Sétima edição, ocorreu do dias 06/06/2022 ao 12/06/2022. O objetivo era realizar o desenvolvimento de um app, utilizando diversas estruturas e processos metológicos. Simulando um desenvolvimento real de app no cotidiano de um desenvolvedor.
 
 Este evento foi realizado e ministrado por [Rodrigo Rahman](https://www.linkedin.com/in/rodrigo-rahman/) e [Academia do Flutter](https://www.linkedin.com/company/academia-do-flutter/).
 
