@@ -24,3 +24,5 @@ Foram abordados as seguntes tecnologias/métodos/pacotes:
 - [Build Runner.](https://pub.dev/packages/build_runner)
 
 Projeto se encontra na pasta ``job_timer_dw``.
+
+Portal para se inscrever no curso da [Academia do Flutter](http://academiadoflutter.com.br/).
